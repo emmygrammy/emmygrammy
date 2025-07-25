@@ -1,4 +1,4 @@
-## Hi there 👋# 👋 Hi, I'm Ojeabuo Emmanuel Destiny
+## Hi there 👋 I'm Ojeabuo Emmanuel Destiny
 
 🎯 Passionate Software Developer | 📱 Flutter Mobile Developer | 🌐 Full-Stack JavaScript | ☁️ Cloud Engineer  
 🔍 I love building modern mobile apps, web applications, and backend systems that solve real-world problems.
