@@ -39,7 +39,7 @@ I'm a **passionate software developer** with a strong interest in building **mob
 
 ## 🚀 Featured Projects
 
-### 🔹 [start Flutter App](https://github.com/EmmyGrammy/ecommerce-app)
+### 🔹 [start Flutter App](https://github.com/emmygrammy/start_up-app)
 > A modern and responsive eCommerce application with custom theming, dark mode, and cart functionality.
 
 ### 🔹 [Backend Express API](https://github.com/EmmyGrammy/express-api)
